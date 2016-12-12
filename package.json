@@ -1,0 +1,19 @@
+{
+  "name": "uc-parallax",
+  "version": "1.0.0",
+  "description": "Under construction static HTML page with parallax for both device (deviceorientation) and desktop (mouse move)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/PaulPineda/UnderConstrucitonParallax.git"
+  },
+  "author": "Paul Pineda <paul@pineda.codes> (http://pineda.codes)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PaulPineda/UnderConstrucitonParallax/issues"
+  },
+  "homepage": "https://github.com/PaulPineda/UnderConstrucitonParallax#readme"
+}
